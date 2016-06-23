@@ -412,7 +412,7 @@
     // If you want the extra pieces of code around CognitiveServices to do
     // something then plug your API keys for the emotion service and the
     // facial service in here.
-    static readonly string cognitiveServiceEmotionServiceKey = "6fb29c159bb04c28ab52ea3347abaa69";
-    static readonly string cognitiveServiceFaceServiceKey = "ee9eb30c62794521950193fe0a03395f";
+    static readonly string cognitiveServiceEmotionServiceKey = string.Empty;
+    static readonly string cognitiveServiceFaceServiceKey = string.Empty;
   }
 }
